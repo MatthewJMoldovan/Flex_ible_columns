@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+
+.row{
+    display: flex;
+}
+
+.col{
+    height: 50px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    background-color:#49a0a2;
+    color: white;
+    margin: 15px;
+    padding: 20px;
+}
+
+.col-2{
+    height: 50px;
+    display: flex;
+    flex: 2;
+    align-items: center;
+    background-color:#49a0a2;
+    color: white;
+    margin: 15px;
+    padding: 20px;
+}
+
+.col-3{
+    height: 50px;
+    display: flex;
+    flex: 3;
+    align-items: center;
+    background-color:#49a0a2;
+    color: white;
+    margin: 15px;
+    padding: 20px;
+}
